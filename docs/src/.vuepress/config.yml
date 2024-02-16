@@ -1,4 +1,4 @@
-base: /LevelX/
+base: /Python-Level-0/
 description: League Level0 Python
 head:
 - - meta
@@ -30,9 +30,23 @@ themeConfig:
   - path: /intro
     title: Introduction
   - children:
-    - path: /lessons/introduction-to-tina-the-turtle/shapes-and-colors/
-      title: Shapes and Colors
+    - path: /lessons/turtles/meet-tina/
+      title: Meet Tina
+    - path: /lessons/turtles/moving/
+      title: Moving
+    - path: /lessons/turtles/color/
+      title: Color
+    - path: /lessons/turtles/saying-hello/
+      title: Saying Hello
+    - path: /lessons/turtles/tinas-pen/
+      title: Tinas Pen
+    - path: /lessons/turtles/going-in-circles/
+      title: Going In Circles
+    - path: /lessons/turtles/tinas-grid/
+      title: Tinas Grid
+    - path: /lessons/turtles/shapes-and-colors/
+      title: Shapes And Colors
     collapsable: false
-    path: /lessons/introduction-to-tina-the-turtle/
-    title: Introduction to Tina the Turtle
+    path: /lessons/turtles/
+    title: Turtles
 title: League Level0 Python

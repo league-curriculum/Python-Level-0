@@ -1,0 +1,6 @@
+[submodule "assignments/Visual-Python"]
+	path = assignments/Visual-Python
+	url = https://github.com/league-curriculum/Visual-Python.git
+[submodule "assignments/python-modules"]
+	path = assignments/python-modules
+	url = https://github.com/league-curriculum/python-modules.git
