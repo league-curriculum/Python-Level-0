@@ -1,0 +1,26 @@
+title: League Level0 Python
+description: League Level0 Python
+pages:
+  - index.md
+  - about.md
+  - intro.md
+resources:
+  - flag.png
+  - word-logo.png
+sidebar:
+  - path: /intro
+    title: Introduction
+lessons:
+  turtles:
+    assignments:
+      - Visual-Python/assignments/turtles/meet-tina
+      - Visual-Python/assignments/turtles/moving
+      - Visual-Python/assignments/turtles/color
+      - Visual-Python/assignments/turtles/saying-hello
+      - Visual-Python/assignments/turtles/tinas-pen
+      - Visual-Python/assignments/turtles/going-in-circles
+      - Visual-Python/assignments/turtles/tinas-grid
+      - Visual-Python/assignments/turtles/shapes-and-colors
+      
+    resources: [ ]
+   
