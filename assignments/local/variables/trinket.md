@@ -53,6 +53,14 @@ assert pizza_per_person == 4
 
 ```
 
+Let's try out that math. 
+
+Here we are also going to learn about the `assert` keyword, which means 'check
+if this is true'.  Make the variables add to 15 to make the `assert` happy,
+then try making it unhappy by making them add to any other number. 
+
+{{ trinket("variables_int.py", width="100%", height="250", embed_type="python") | safe }}
+
 ## Strings
 
 In Python, there are many different types of things we can put in the
@@ -74,16 +82,7 @@ print(h+s+w)
 Hello World
 ```
 
-Let's learn about more thing that we can do with variables. 
-
-Here we are also going to learn about the `assert` keyword, which means 'check
-if this is true'.  Make the variables add to 15 to make the `assert` happy,
-then try making it unhappy by making them add to any other number. 
-
-
-{{ trinket("variables_int.py", width="100%", height="250", embed_type="python") | safe }}
-
-Now, try the same thing, but with strings: 
+Now, try the same thing we did with numbers, but with strings: 
 
 {{ trinket("variables_str.py", width="100%", height="250", embed_type="python") | safe }}
 
