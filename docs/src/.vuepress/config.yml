@@ -49,4 +49,10 @@ themeConfig:
     collapsable: false
     path: /lessons/turtles/
     title: Turtles
+  - children:
+    - path: /lessons/loops/loops/
+      title: Make a Square
+    collapsable: false
+    path: /lessons/loops/
+    title: Loops
 title: League Level0 Python

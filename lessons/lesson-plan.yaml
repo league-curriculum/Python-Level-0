@@ -21,6 +21,8 @@ lessons:
       - Visual-Python/assignments/turtles/going-in-circles
       - Visual-Python/assignments/turtles/tinas-grid
       - Visual-Python/assignments/turtles/shapes-and-colors
-      
     resources: [ ]
+  loops:
+    assignments:
+      - local/loops
    

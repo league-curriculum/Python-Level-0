@@ -13,12 +13,16 @@ tony.shape('turtle')  # ;
 # Set your turtle's speed using .speed(2)
 tony.speed(0)  # ;
 
+tony.forward(50)
+tony.left(90)
 
 tony.forward(50)
 tony.left(90)
+
 tony.forward(50)
 tony.left(90)
-tony.forward(50)
 
-# ===================== DO NOT EDIT THE CODE BELOW ============================
-turtle.done()
+tony.forward(50)
+tony.left(90)
+
+
