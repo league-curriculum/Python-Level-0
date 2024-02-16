@@ -52,7 +52,11 @@ themeConfig:
   - children:
     - path: /lessons/loops/loops/
       title: Make a Square
+    - path: /lessons/loops/variables/
+      title: Variables
+    - path: /lessons/loops/polygons/
+      title: Polygons
     collapsable: false
     path: /lessons/loops/
-    title: Loops
+    title: Repeating and Remembering
 title: League Level0 Python
