@@ -24,7 +24,8 @@ lessons:
     resources: [ ]
   loops:
     assignments:
-      - local/loops
       - local/variables
+      - local/loops
+      - local/functions
       - local/polygons
    

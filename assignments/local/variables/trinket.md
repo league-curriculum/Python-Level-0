@@ -87,5 +87,11 @@ Now, try the same thing we did with numbers, but with strings:
 {{ trinket("variables_str.py", width="100%", height="250", embed_type="python") | safe }}
 
 
+We can use variables to store commands for our turtle. Let's start with a program that we created 
+earlier, but update it to use variables. 
+
+{{ trinket("turtle_var.py", width="100%", height="250", embed_type="python") | safe }}
+
+
 
 
