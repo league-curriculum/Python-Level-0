@@ -24,11 +24,11 @@ lessons:
     resources: [ ]
   loops:
     assignments:
-      - local/variables
-      - local/loops
-      - local/functions
-      - functions/make-5-cakes
-      - local/crazy_shapes
+      - loops/variables
+      - loops/loops
+      - loops/functions
+      - loops/make-5-cakes
+      - loops/crazy_shapes
   lists:
     assignments:
       - turtles/tinas-grid
