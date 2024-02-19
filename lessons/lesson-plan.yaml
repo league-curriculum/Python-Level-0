@@ -13,20 +13,24 @@ sidebar:
 lessons:
   turtles:
     assignments:
-      - Visual-Python/assignments/turtles/meet-tina
-      - Visual-Python/assignments/turtles/moving
-      - Visual-Python/assignments/turtles/color
-      - Visual-Python/assignments/turtles/saying-hello
-      - Visual-Python/assignments/turtles/tinas-pen
-      - Visual-Python/assignments/turtles/going-in-circles
-      - Visual-Python/assignments/turtles/tinas-grid
-      - Visual-Python/assignments/turtles/shapes-and-colors
+      - turtles/meet-tina
+      - turtles/moving
+      - turtles/color
+      - turtles/saying-hello
+      - turtles/tinas-pen
+      - turtles/going-in-circles
+      - turtles/tinas-grid
+      - turtles/shapes-and-colors
     resources: [ ]
   loops:
     assignments:
       - local/variables
       - local/loops
       - local/functions
-      - Visual-Python/assignments/functions/make-5-cakes
+      - functions/make-5-cakes
       - local/crazy_shapes
+  lists:
+    assignments:
+      - turtles/tinas-grid
+
    

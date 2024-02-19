@@ -63,4 +63,10 @@ themeConfig:
     collapsable: false
     path: /lessons/loops/
     title: Remembering,  Repeating
+  - children:
+    - path: /lessons/lists/tinas-grid/
+      title: Tinas Grid
+    collapsable: false
+    path: /lessons/lists/
+    title: Lists
 title: League Level0 Python
