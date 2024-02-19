@@ -1,8 +1,8 @@
 # Variables
 
-A variable is a placeholder for information, like a box where you can put
+A variable is a way to store information, like a box where you can put
 something for using later. Variables have names, which is like a label on the
-box . You can set or change change the contents of the box with the '=',
+box. You can set or change change the contents of the box with the '=',
 which we call the 'assignment operator'.
 
 Here is an examples of assigning a variable: 
@@ -15,7 +15,7 @@ Surprise! You've been using variables all along! Here the name of the variable
 is `tony` and the contents of the variable, like the contents of a box, is a turtle. 
 
 
-Here are some more examples: 
+Here are some more examples, storing numnbers into variables 
 
 ```python
 apples = 10
@@ -29,18 +29,24 @@ print(apples+oranges)
 16
 ```
 
-Variables can hold numbers, and we can add numbers, so we can add the variables to get the answer. 
+Since variables can hold numbers, and we can add numbers, so we can add the variables to get the answer. 
+
+Try it yourself. But first, notice the last line, which has `assert` on it, which means, 
+'complain if this is not true'. The assert will produce an error message if
+ your variables don't add to 15.  Make the variables add to 15 to make the
+ `assert` happy, then try making it unhappy by making them add to any other
+ number, just to see whan an error looks like. We will sometimes use `assert`
+ to check if your answers are correct. 
+
+{{ trinket("variables_int.py", width="100%", height="250", embed_type="python") | safe }}
 
 
-## Math with Variables
+We've already seen addition, but we can also subtract, multiply and divide.
+However, multiplication and division use symbols that are a little different
+from what you are used to:
 
-
-We can use our variables in math equations. We've already seen addition, but
-we can also subtract, multiply and divide. Multiplication and division are
-different from what you are used to:
-
-* Multiplication uses "*", so ``10*5 == 50``
-* Division uses "/", so ``50/5 == 10``
+* Multiplication uses "*", so `10*5 == 50`
+* Division uses "/", so `50/5 == 10`
 
 For instance: 
 
@@ -49,17 +55,9 @@ pizza_slices = 16
 people = 4
 pizza_per_person = pizza_slices / 4
 
-assert pizza_per_person == 4
+assert pizza_per_person == 4 # What is this????
 
 ```
-
-Let's try out that math. 
-
-Here we are also going to learn about the `assert` keyword, which means 'check
-if this is true'.  Make the variables add to 15 to make the `assert` happy,
-then try making it unhappy by making them add to any other number. 
-
-{{ trinket("variables_int.py", width="100%", height="250", embed_type="python") | safe }}
 
 ## Strings
 
@@ -90,8 +88,4 @@ Now, try the same thing we did with numbers, but with strings:
 We can use variables to store commands for our turtle. Let's start with a program that we created 
 earlier, but update it to use variables. 
 
-{{ trinket("turtle_var.py", width="100%", height="250", embed_type="python") | safe }}
-
-
-
-
+{{ trinket("turtle_var.py", width="100%", height="500", embed_type="python") | safe }}

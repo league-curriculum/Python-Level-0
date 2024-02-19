@@ -1,9 +1,31 @@
 ---
-title: Repeating and Remembering
+title: Remembering,  Repeating 
 ---
+
+# Remembering and  Repeating 
 
 Next we are going to learn about two really important parts of programming:
 repeating things with loops and remembering things with variables. 
+
+
+## Remembering with Variable
+
+Variables are like boxes we use to store numbers and words, so they are the memory of a program.  We could have variables to track how much fruit we have
+
+```python
+apples = 10
+oranges = 6
+```
+
+Then use those names later to add all of our fruits together. 
+
+```python 
+print(apples+oranges)
+16
+```
+
+
+## Repeating with Loops
 
 
 Loops are a really important part of progams that let a program do something
@@ -25,18 +47,6 @@ for i in range(3):
 
 ```
 
-Variables are like boxes we use to store numbers and words, so they are the memory of a program.  We could have variables to track how much fruit we have
 
-```python
-apples = 10
-oranges = 6
-```
-
-Then use those names later to add all of our fruits together. 
-
-```python 
-print(apples+oranges)
-16
-```
 
 Now lets learn how to use these new programming ideas in our programs. 

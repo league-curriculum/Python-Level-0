@@ -50,13 +50,15 @@ themeConfig:
     path: /lessons/turtles/
     title: Turtles
   - children:
-    - path: /lessons/loops/loops/
-      title: Make a Square
     - path: /lessons/loops/variables/
       title: Variables
+    - path: /lessons/loops/loops/
+      title: Make a Square with Loops
+    - path: /lessons/loops/functions/
+      title: Functions
     - path: /lessons/loops/polygons/
       title: Polygons
     collapsable: false
     path: /lessons/loops/
-    title: Repeating and Remembering
+    title: Remembering,  Repeating
 title: League Level0 Python

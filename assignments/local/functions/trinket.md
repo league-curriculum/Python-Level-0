@@ -62,9 +62,10 @@ Now re-write the program to multiply the two numbers.
 Re-write it again to multiply three numbers. 
 
 
-{{ trinket("mult3.py", width="100%", height="600", embed_type="python") | safe }}
+{{ trinket("mult_3.py", width="100%", height="600", embed_type="python") | safe }}
 
 
+# Functions and Loops
 
+Remember earlier when we talked about loops, and mentioned that there is a variable in them?
 
-Have fun!
