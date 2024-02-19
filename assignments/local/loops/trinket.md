@@ -66,21 +66,27 @@ like a triangle, a pentagon, or a hexagon, or maybe even a ... hendecagon.
 
 ## More about range
 
-
 Another interesting things with the loops is that `range` can have more than
 one number in it. If we put in two numbers, the values of `i` will go from
 the first number to _one minus_ the second number, so if you want to print
-out the numbers 4, 5, 6, 7, you would used `range(4,8)`:
+out the numbers 4, 5, 6, 7, you would use `range(4,8)`:
 
-Try that yourself. Write a program to print "Hello" and then all of the
+
+```python 
+for i in range(4, 7):
+    print("Hello!", i)
+```
+
+Try that yourself. Write a program to print "Hello" next to all of the
 numbers from 10 to 20:
 
 {{ trinket("hello_10_20.py", width="100%", height="250", embed_type="python") | safe }}
 
 
 But there are more interesting things about `range()`: It can take a _third_
-number, and all three of the numbers can be negative or positive. Let's
-explore `range()` to figure out what the third number does. 
+number, and all three of the numbers can be negative or positive. So you
+could also type `range(10,20, 2)` or `range(20,10,-1)`. Let's explore `range
+()` to figure out what the third number does. 
 
 
 {{ trinket("hello_explore_range.py", width="100%", height="300", embed_type="python") | safe }}

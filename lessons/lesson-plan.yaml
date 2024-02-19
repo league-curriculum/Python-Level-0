@@ -27,5 +27,6 @@ lessons:
       - local/variables
       - local/loops
       - local/functions
-      - local/polygons
+      - Visual-Python/assignments/functions/make-5-cakes
+      - local/crazy_shapes
    

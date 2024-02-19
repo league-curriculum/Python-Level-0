@@ -56,8 +56,10 @@ themeConfig:
       title: Make a Square with Loops
     - path: /lessons/loops/functions/
       title: Functions
-    - path: /lessons/loops/polygons/
-      title: Polygons
+    - path: /lessons/loops/make-5-cakes/
+      title: Make 5 Cakes
+    - path: /lessons/loops/crazy_shapes/
+      title: Crazy Shapes
     collapsable: false
     path: /lessons/loops/
     title: Remembering,  Repeating
