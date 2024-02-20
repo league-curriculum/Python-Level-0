@@ -20,17 +20,15 @@ lessons:
       - turtles/tinas-pen
       - turtles/going-in-circles
       - turtles/tinas-grid
-      - turtles/shapes-and-colors
+      
     resources: [ ]
   loops:
     assignments:
       - loops/variables
       - loops/loops
       - loops/functions
-      - loops/make-5-cakes
       - loops/crazy_shapes
-  lists:
-    assignments:
-      - turtles/tinas-grid
+      - lists/first_look_at_lists
+      - choice/if_and_else
 
    

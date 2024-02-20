@@ -2,7 +2,17 @@ As we saw in the last example, Tina can move!  When she moves, she draws a line.
 
 Run this example to see her move:
  
-{{ trinket("moving_1.py", width="100%", height="800", embed_type="python") | safe }}
+```python.run
+import turtle
+tina = turtle.Turtle()
+tina.shape("turtle")
+
+tina.forward(50)
+tina.left(90)
+tina.forward(50)
+tina.left(90)
+tina.forward(50)
+```
 
 She's almost made a square!  Can you help her complete it?  What other shapes can you help Tina draw?
 

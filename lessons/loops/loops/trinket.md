@@ -31,7 +31,14 @@ loop is a bit of code that causes the computer to do something multiple
 times. Here is a loop for printing "Hello!" mutiple times. How many times do
 you think it will print?
 
-{{ trinket("hello.py", width="100%", height="250", embed_type="python") | safe }}
+```python.run
+
+for i in range(4):
+    print("Hello!")
+
+# Now change the program to make 
+# it print hello 6 times. 
+```
 
 Let's look at that in more detail:
 
@@ -51,6 +58,35 @@ The `i` part is also special; it is a variable. So, you could print it out too.
 for i in range(4):
     print("Hello!", i)
 ```
+
+## Badgers Badgers Badgers
+
+Use for loops (you will need more than one) to print the following lyrics from the Badger Song. You can only use the words “Badger”, “Mushroom” and “Snake” once each in your code.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pzagBTcYsYQ?si=m3Vc66lQ4PhMfiFO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Print 2 verses of the song as follows:
+
+```
+Badger, Badger, Badger, Badger, Badger, Badger, Badger,Badger, 
+Badger,Badger, Badger, Badger, Mushroom, Mushroom
+
+Badger, Badger, Badger,Badger, Badger, Badger, Badger,Badger, 
+Badger, Badger, Badger, Badger, Mushroom, Mushroom
+
+A Snake!!!
+```
+
+Or maybe: 🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🍄🍄 🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🍄🍄 🐍
+
+
+
+```python.run:height='600'
+
+```
+
+
+
 
 
 ## Make a Better Square. 
@@ -80,16 +116,31 @@ for i in range(4, 7):
 Try that yourself. Write a program to print "Hello" next to all of the
 numbers from 10 to 20:
 
-{{ trinket("hello_10_20.py", width="100%", height="250", embed_type="python") | safe }}
+```python.run
+# Change me to print Hello for the 
+# numbers from 10 to 20
 
+for i in range(4):
+    print("Hello!")
+```
 
 But there are more interesting things about `range()`: It can take a _third_
 number, and all three of the numbers can be negative or positive. So you
 could also type `range(10,20, 2)` or `range(20,10,-1)`. Let's explore `range
 ()` to figure out what the third number does. 
 
+```python.run
 
-{{ trinket("hello_explore_range.py", width="100%", height="300", embed_type="python") | safe }}
+# Change me so range() has three numbers, 
+# and try to figure out what the third
+# number does. What happens if you make 
+# some of the numbers negative?
 
+# HINT: If the third number is negative, 
+# the first number should be *bigger* than
+# the second, but if the third number is positive, 
+# it should be smaller. 
 
-
+for i in range(10):
+    print("Hello!", i)
+```

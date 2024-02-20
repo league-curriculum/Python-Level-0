@@ -44,8 +44,6 @@ themeConfig:
       title: Going In Circles
     - path: /lessons/turtles/tinas-grid/
       title: Tinas Grid
-    - path: /lessons/turtles/shapes-and-colors/
-      title: Shapes And Colors
     collapsable: false
     path: /lessons/turtles/
     title: Turtles
@@ -56,17 +54,13 @@ themeConfig:
       title: Make a Square with Loops
     - path: /lessons/loops/functions/
       title: Functions
-    - path: /lessons/loops/make-5-cakes/
-      title: Make 5 Cakes
     - path: /lessons/loops/crazy_shapes/
       title: Crazy Shapes
+    - path: /lessons/loops/first_look_at_lists/
+      title: First Look at Lists
+    - path: /lessons/loops/if_and_else/
+      title: If and Else
     collapsable: false
     path: /lessons/loops/
     title: Remembering,  Repeating
-  - children:
-    - path: /lessons/lists/tinas-grid/
-      title: Tinas Grid
-    collapsable: false
-    path: /lessons/lists/
-    title: Lists
 title: League Level0 Python

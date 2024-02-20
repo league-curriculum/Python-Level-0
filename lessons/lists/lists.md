@@ -1,5 +1,0 @@
-
-# Lists
-
-All about lists. 
-
