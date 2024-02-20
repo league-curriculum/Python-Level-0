@@ -1,4 +1,4 @@
-# If and Else
+# Making Choices with If and Else
 
 All programming languages have a way of making choices, doing one thing or
 the other. In Python we can make choices with `if`, `elif` and `else`. Here is
@@ -28,16 +28,17 @@ want to look at earlier programs for clues
 
 ```python.run
 
-# Make a list of your friends, but adding on to this starter list
+# Make a list of your friends, by adding 
+# on to this starter list
 
 friends = [ 'friend1','friend2']
 
 # Ask the user's name
 name = ...
 
-# Write a loop the iterates over all of your friends, 
-# and if the user's name is the same as a friends name, 
-# print "Hello Friend"
+# Write a loop that iterates over all of your 
+# friends, and if the user's name is the same 
+# as a friends name, print "Hello Friend"
 
 for friend in ... :
     ...

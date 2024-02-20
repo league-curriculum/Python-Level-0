@@ -48,19 +48,19 @@ themeConfig:
     path: /lessons/turtles/
     title: Turtles
   - children:
-    - path: /lessons/loops/variables/
+    - path: /lessons/module1/variables/
       title: Variables
-    - path: /lessons/loops/loops/
+    - path: /lessons/module1/loops/
       title: Make a Square with Loops
-    - path: /lessons/loops/functions/
+    - path: /lessons/module1/functions/
       title: Functions
-    - path: /lessons/loops/crazy_shapes/
+    - path: /lessons/module1/crazy_shapes/
       title: Crazy Shapes
-    - path: /lessons/loops/first_look_at_lists/
+    - path: /lessons/module1/first_look_at_lists/
       title: First Look at Lists
-    - path: /lessons/loops/if_and_else/
-      title: If and Else
+    - path: /lessons/module1/if_and_else/
+      title: Making Choices with If and Else
     collapsable: false
-    path: /lessons/loops/
-    title: Remembering,  Repeating
+    path: /lessons/module1/
+    title: 'Module 1: Remembering and Repeating'
 title: League Level0 Python

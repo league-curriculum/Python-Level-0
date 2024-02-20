@@ -59,6 +59,39 @@ for i in range(4):
     print("Hello!", i)
 ```
 
+
+
+## Make a Better Square. 
+
+Here is our way of solving the square exercise. Can you edit this
+program to make it much better, by replacing the repetition with a loop?
+
+```python.run
+import turtle
+tina = turtle.Turtle()
+tina.shape("turtle")
+
+forward = 50
+left = 90
+
+tina.forward(forward)
+tina.left(left)
+
+tina.forward(forward)
+tina.left(left)
+
+tina.forward(forward)
+tina.left(left)
+
+tina.forward(forward)
+tina.left(left)
+```
+
+Once you have used a loop to help Tony make a square, try making other shapes,
+like a triangle, a pentagon, or a hexagon, or maybe even a ... hendecagon.
+(if you can figure out what that is. )
+
+
 ## Badgers Badgers Badgers
 
 Use for loops (you will need more than one) to print the following lyrics from the Badger Song. You can only use the words “Badger”, “Mushroom” and “Snake” once each in your code.
@@ -87,18 +120,6 @@ Or maybe: 🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🍄🍄 🦡🦡🦡�
 
 
 
-
-
-## Make a Better Square. 
-
-Here is our way of solving the square exercise. Can you edit this
-program to make it much better, by replacing the repetition with a loop?
-
-{{ trinket("square-solved.py", width="100%", height="450", embed_type="python") | safe }}
-
-Once you have used a loop to help Tony make a square, try making other shapes,
-like a triangle, a pentagon, or a hexagon, or maybe even a ... hendecagon.
-(if you can figure out what that is. )
 
 ## More about range
 

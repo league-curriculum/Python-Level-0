@@ -1,5 +1,5 @@
 ---
-title: Remembering,  Repeating 
+title: 'Module 1: Remembering and Repeating'
 ---
 
 # Remembering and  Repeating 
@@ -23,7 +23,6 @@ Then use those names later to add all of our fruits together.
 print(apples+oranges)
 16
 ```
-
 
 ## Repeating with Loops
 

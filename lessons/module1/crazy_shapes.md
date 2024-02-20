@@ -1,4 +1,4 @@
-# Shapes and Colors
+# Crazy Shapes
 
 Here is the program we created to make squares with loops. Try modifying this 
 program to make other shapes. Try some of these things:

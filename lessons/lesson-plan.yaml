@@ -22,13 +22,13 @@ lessons:
       - turtles/tinas-grid
       
     resources: [ ]
-  loops:
+  module1:
     assignments:
-      - loops/variables
-      - loops/loops
-      - loops/functions
-      - loops/crazy_shapes
-      - lists/first_look_at_lists
-      - choice/if_and_else
+      - module1/variables
+      - module1/loops
+      - module1/functions.md
+      - module1/crazy_shapes.md
+      - module1/first_look_at_lists.md
+      - module1/if_and_else.md
 
    
