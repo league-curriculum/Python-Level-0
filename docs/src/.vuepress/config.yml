@@ -63,4 +63,16 @@ themeConfig:
     collapsable: false
     path: /lessons/module1/
     title: 'Module 1: Remembering and Repeating'
+  - children:
+    - path: /lessons/module2/more_functions/
+      title: More Functions
+    - path: /lessons/module2/happy_pet/
+      title: Happy Pet
+    - path: /lessons/module2/obedient_turtle/
+      title: Obedient Turtle
+    - path: /lessons/module2/houses/
+      title: Drawing Houses
+    collapsable: false
+    path: /lessons/module2/
+    title: 'Module 2: Practice'
 title: League Level0 Python
