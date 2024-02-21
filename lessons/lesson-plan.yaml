@@ -37,3 +37,7 @@ lessons:
       - module2/happy_pet.md
       - module2/obedient_turtle.md
       - module2/houses.md
+      
+  module3:
+    assignments:
+      - module3/more_lists.md

@@ -38,7 +38,17 @@ Try it yourself. But first, notice the last line, which has `assert` on it, whic
  number, just to see whan an error looks like. We will sometimes use `assert`
  to check if your answers are correct. 
 
-{{ trinket("variables_int.py", width="100%", height="250", embed_type="python") | safe }}
+```python.run
+
+# Make the numbers add to 15
+
+x = 10
+y =   # Finish the line with the right string
+
+assert x + y == 15, "The sum should be 15"
+
+print("Yeah! 🎉")
+```
 
 
 We've already seen addition, but we can also subtract, multiply and divide.
@@ -82,10 +92,100 @@ Hello World
 
 Now, try the same thing we did with numbers, but with strings: 
 
-{{ trinket("variables_str.py", width="100%", height="250", embed_type="python") | safe }}
+```python.run
 
+# Make the numbers add to 15
+
+x = "Hello "
+y =   # Finish the line with the right number
+
+assert x + y == "Hello World"
+print("Yeah! "+x+y+" 🎉")
+
+```
+
+One important things about strings is that you have to surround them with quotes, but
+you can use single or double quotes. The reason is that if you string has one kind of
+quote, it has to be surrounded with the other kind. 
+
+```python
+
+s1 = "this is a string"
+s2 = 'this is also a string'
+
+s3 = "He said 'this is a string' "
+s4 = 'He said "this is a string" '
+```
+
+This string program doesn't work! change it so it does. 
+
+
+```python.run
+
+s1 = like strings
+s2 = these letters are in bob's string
+
+s3 = Bob said "I really like strings"
+s4 = Bob 'likes' strings
+
+print(s1)
+print(s2)
+print(s3)
+print(s4)
+
+```
+
+
+But, sometimes, even using two kinds of strings doesn't work well, like if you 
+have a string that has both kinds of quotes in it, like:
+
+```
+I can't decide if I like " or ' more
+```
+
+What do you do then? You can "escape" the quotes with a '\\', which turns off
+the quotes quotiness. So you'd type this: 
+
+
+```python 
+s = "I can\'t decide if I like \" or \' more"
+```
+
+
+
+# Turtle Variables
 
 We can use variables to store commands for our turtle. Let's start with a program that we created 
 earlier, but update it to use variables. 
 
-{{ trinket("turtle_var.py", width="100%", height="500", embed_type="python") | safe }}
+```python.run
+
+
+import turtle
+tina = turtle.Turtle()
+tina.shape("turtle")
+
+forward = # Amount to move forward
+left = # amount to turn left
+
+
+# In the lines below, use the variables 
+# instead of numbers. 
+
+tina.forward(50)
+tina.left(90)
+
+tina.forward(50)
+tina.left(90)
+
+tina.forward(50)
+tina.left(90)
+
+tina.forward(50)
+tina.left(90)
+
+# Now, try changing the values for 
+# forward and left and see what new 
+# shapes Tina draws. 
+```
+

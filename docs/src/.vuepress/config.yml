@@ -74,5 +74,11 @@ themeConfig:
       title: Drawing Houses
     collapsable: false
     path: /lessons/module2/
-    title: 'Module 2: Practice'
+    title: 'Module 2: Function Practice'
+  - children:
+    - path: /lessons/module3/more_lists/
+      title: Iterating over Iterables
+    collapsable: false
+    path: /lessons/module3/
+    title: 'Module 3: Lists, Strings, and Iterables'
 title: League Level0 Python

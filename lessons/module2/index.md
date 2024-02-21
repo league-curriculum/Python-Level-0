@@ -1,3 +1,3 @@
-# Module 2: Practice
+# Module 2: Function Practice
 
-More of the same, but more of it.
+In this module, you will get more practice with functions. 
