@@ -48,6 +48,8 @@ themeConfig:
     path: /lessons/turtles/
     title: Turtles
   - children:
+    - path: /lessons/module1/var_loop_list/
+      title: Variables Loops and Lists
     - path: /lessons/module1/variables/
       title: Variables
     - path: /lessons/module1/loops/
@@ -78,7 +80,14 @@ themeConfig:
   - children:
     - path: /lessons/module3/more_lists/
       title: Iterating over Iterables
+    - path: /lessons/module3/yet_more_lists/
+      title: Unpacking Tuples
     collapsable: false
     path: /lessons/module3/
     title: 'Module 3: Lists, Strings, and Iterables'
+  - children:
+    - path: /lessons/project/level0_project/
+      title: Level 0 Project
+    collapsable: false
+    title: Final Project
 title: League Level0 Python

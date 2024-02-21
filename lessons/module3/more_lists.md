@@ -29,6 +29,10 @@ for things in things_to_buy:
 print("\nLetters in a string")
 for letter in "Hello!":
     print(letter)
+
+# Now change the program so that, in the second loop, 
+# the program prints an 'x' instead of an 'l'
+
 ```
 
 ## Iterables
@@ -140,4 +144,13 @@ this, but with real names: `'foo bar baz'`. Split the list into a string.
 ```python.run:height='600'
 
 ```
+
+
+
+
+
+
+
+
+
 

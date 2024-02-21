@@ -12,7 +12,7 @@ program to make other shapes. Try some of these things:
 ```python.run
 import turtle 
 tina = turtle.Turtle()
-tina.shape("turtle")
+tina.shape("arrow")
 tina.speed(0)
 
 forward = 50
@@ -33,7 +33,7 @@ program.
 ```python.run
 import turtle
 tina = turtle.Turtle()
-tina.shape("turtle")
+tina.shape("circle")
 tina.speed(0)
 
 left = 20
@@ -50,7 +50,7 @@ Here is another crazy program:
 ```python.run
 import turtle
 tina = turtle.Turtle()
-tina.shape("turtle")
+tina.shape("triangle")
 tina.speed(0)
 
 forward = 50
