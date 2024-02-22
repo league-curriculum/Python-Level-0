@@ -1,5 +1,5 @@
 ---
-home: true
+layout: LeagueHomer
 heroImage:  /assets/word-logo.png
 tagline: Introduction to Python
 actionText: Get Started!
