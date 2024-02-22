@@ -159,7 +159,7 @@ def move_turtle(..., ..., ...):
     turtle.turn(...)
 
 
-for move, turn color in zip(...):
+for move, turn, color in zip(...):
     ...
 
 

@@ -1,9 +1,9 @@
 # Level 0 Project
 
 For your final Level 0 project, you are going to learn the most important lesson
-that and programmer can learn:
+that a programmer can learn:
 
-<p style="align: center; font-size: 40px; font-weight: bold; color: red; font-family: 'Comic Sans MS', cursive, sans-serif;">Read The Documentation!</p>
+<p style="text-align: center; font-size: 40px; font-weight: bold; color: red; font-family: 'Comic Sans MS', cursive, sans-serif;">Read The Documentation!</p>
 
 
 We've been using the Python turtle for all this time, but we haven't read the documentation yet! 
@@ -56,6 +56,7 @@ for i in range(10):
   turtle.right(15)
 
 ```
+:::
 
 ::: details Flaming Ninja Star
 ```python
