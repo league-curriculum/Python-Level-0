@@ -1,5 +1,5 @@
 base: /Python-Level-0/
-description: League Level0 Python
+description: A first course in programming with Python
 head:
 - - meta
   - content: '#F37121'
@@ -46,7 +46,6 @@ themeConfig:
     - path: /lessons/turtles/tinas-grid/
       title: Tinas Grid
     collapsable: false
-    path: /lessons/turtles/
     title: Turtles
   - children:
     - path: /lessons/module1/var_loop_list/
@@ -64,7 +63,6 @@ themeConfig:
     - path: /lessons/module1/if_and_else/
       title: Making Choices with If and Else
     collapsable: false
-    path: /lessons/module1/
     title: 'Module 1: Remembering and Repeating'
   - children:
     - path: /lessons/module2/more_functions/
@@ -76,7 +74,6 @@ themeConfig:
     - path: /lessons/module2/houses/
       title: Drawing Houses
     collapsable: false
-    path: /lessons/module2/
     title: 'Module 2: Function Practice'
   - children:
     - path: /lessons/module3/more_lists/
@@ -91,4 +88,4 @@ themeConfig:
       title: Level 0 Project
     collapsable: false
     title: Final Project
-title: League Level0 Python
+title: Introduction to Programming

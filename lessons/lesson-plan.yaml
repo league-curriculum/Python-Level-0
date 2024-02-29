@@ -1,5 +1,5 @@
-title: League Level0 Python
-description: League Level0 Python
+title: Introduction to Programming
+description: A first course in programming with Python
 pages:
   - index.md
   - about.md
@@ -12,6 +12,7 @@ sidebar:
     title: Introduction
 lessons:
   turtles:
+    title: Turtles
     assignments:
       - turtles/meet-tina
       - turtles/moving
@@ -23,6 +24,7 @@ lessons:
       
     resources: [ ]
   module1:
+    title: 'Module 1: Remembering and Repeating'
     assignments:
       - module1/var_loop_list.md
       - module1/variables
@@ -33,6 +35,7 @@ lessons:
       - module1/if_and_else.md
 
   module2:
+    title: 'Module 2: Function Practice'
     assignments:
       - module2/more_functions.md
       - module2/happy_pet.md
@@ -40,6 +43,7 @@ lessons:
       - module2/houses.md
 
   module3:
+    title: 'Module 3: Lists, Strings, and Iterables'
     assignments:
       - module3/more_lists.md
       - module3/yet_more_lists.md
