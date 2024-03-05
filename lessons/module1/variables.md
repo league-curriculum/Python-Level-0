@@ -78,7 +78,7 @@ or "strings".
 It might seem weird that words are called "strings" but it's not if you think
 about it like a computer, which is that it is made of letters, one after the other, like a friendship bracelet. 
 
-<img src="https://i.pinimg.com/originals/86/47/ce/8647ce37cd76a5188c04be03d8969ad5.jpg" alt="Friendship Bracelet" width="200"/>
+<img src="./friendb.jpg" width="200"/>
 
 Strings work a bit differently than numbers; when we add them, they are _concatenated_ which means "combined end to end"
 
