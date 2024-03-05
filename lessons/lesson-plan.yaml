@@ -14,21 +14,21 @@ lessons:
   turtles:
     title: Turtles
     assignments:
-      - turtles/meet-tina
-      - turtles/moving
-      - turtles/color
-      - turtles/saying-hello
-      - turtles/tinas-pen
-      - turtles/going-in-circles
-      - turtles/tinas-grid
+      - turtles/meet-tina.md
+      - turtles/moving.md
+      - turtles/color.md
+      - turtles/saying-hello.md
+      - turtles/tinas-pen.md
+      - turtles/going-in-circles.md
+      - turtles/tinas-grid.md
       
     resources: [ ]
   module1:
     title: 'Module 1: Remembering and Repeating'
     assignments:
       - module1/var_loop_list.md
-      - module1/variables
-      - module1/loops
+      - module1/variables.md
+      - module1/loops.md
       - module1/functions.md
       - module1/crazy_shapes.md
       - module1/first_look_at_lists.md

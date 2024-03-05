@@ -36,15 +36,15 @@ themeConfig:
     - path: /lessons/turtles/moving/
       title: Moving
     - path: /lessons/turtles/color/
-      title: Color
+      title: Colors
     - path: /lessons/turtles/saying-hello/
-      title: Saying Hello
+      title: Saying Helo
     - path: /lessons/turtles/tinas-pen/
-      title: Tinas Pen
+      title: Tina's Pen
     - path: /lessons/turtles/going-in-circles/
-      title: Going In Circles
+      title: Going in Circles
     - path: /lessons/turtles/tinas-grid/
-      title: Tinas Grid
+      title: Tina's Grid
     collapsable: false
     title: Turtles
   - children:
@@ -53,7 +53,7 @@ themeConfig:
     - path: /lessons/module1/variables/
       title: Variables
     - path: /lessons/module1/loops/
-      title: Make a Square with Loops
+      title: Loops for Easy Squares
     - path: /lessons/module1/functions/
       title: Functions
     - path: /lessons/module1/crazy_shapes/
@@ -81,7 +81,6 @@ themeConfig:
     - path: /lessons/module3/yet_more_lists/
       title: Unpacking Tuples
     collapsable: false
-    path: /lessons/module3/
     title: 'Module 3: Lists, Strings, and Iterables'
   - children:
     - path: /lessons/project/level0_project/

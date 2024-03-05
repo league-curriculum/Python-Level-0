@@ -1,10 +1,9 @@
 ---
-home: true
-heroImage:  /assets/word-logo.png
-tagline:  A first course in programming with Python
-actionText: Get Started!
 actionLink: /intro
-
+actionText: Get Started!
+heroImage: /assets/word-logo.png
+home: true
+tagline: A first course in programming with Python
 ---
 
 This course will teach you the basics of a programming language named Python.
@@ -15,4 +14,3 @@ powers websites and apps like Yelp.com and Twitter.
 
 This Hour of code activity was originally created by Trinket.io, and this course is 
 a modified version of [A Visual Introduction to Python](https://hourofpython.com/a-visual-introduction-to-python/), with some extra lessons and exercises.
-

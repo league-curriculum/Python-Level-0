@@ -147,7 +147,7 @@ Run this program, then change the program how ever you want. Some things you can
 
 ## Functions and Loops
 
-Let update a square function one more time. This time remove the redundancy in
+Let's update a square function one more time. This time remove the redundancy in
 the program with a loop, but also use a function; your loop should run a
 function many times, and the function should draw part of the square. 
 
