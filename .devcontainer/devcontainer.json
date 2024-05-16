@@ -10,8 +10,8 @@
 	"updateContentCommand": "",
 	"postCreateCommand": [
 		"sudo apt update && sudo apt install -y nodejs npm yarn",
-		"cd docs && npm install",
-		"python3 -m pip install -r requirements.txt"
+		"python3 -m pip install -r requirements.txt",
+		"cd docs && npm instal",
 	], 
 	"customizations": {
 		"vscode": {
