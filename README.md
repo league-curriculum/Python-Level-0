@@ -28,6 +28,12 @@ If you have installed yarn previously, you will still need to install in the doc
  (cd docs &&  yarn install )
  ```
 
+or 
+
+```bash
+ (cd docs &&  npm install )
+ ```
+
 
 ### Install Lessons
 
