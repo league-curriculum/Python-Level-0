@@ -1,4 +1,4 @@
-# Saying Helo
+# Saying Hello
 
 Tina's already said hello but you can tell her your name and she'll say hello to you.
 

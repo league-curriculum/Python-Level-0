@@ -1,0 +1,1 @@
+git+https://github.com/league-infrastructure/lesson-builder.git#egg=lesson-builder
