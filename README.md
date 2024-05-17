@@ -7,8 +7,8 @@ The easiest way to update the curriculum is to create a Codespace from this repo
 See these wiki pages for installing a new repository locally:
 
 * Install lesson builder
-** [For general use](https://github.com/league-curriculum/Python-Level-0/wiki/Install-For-General-Use)
-** [For development](https://github.com/league-curriculum/Python-Level-0/wiki/Install-Development-Versions)
+  * [For general use](https://github.com/league-curriculum/Python-Level-0/wiki/Install-For-General-Use)
+  * [For development](https://github.com/league-curriculum/Python-Level-0/wiki/Install-Development-Versions)
 * [Install vuepress](https://github.com/league-curriculum/Python-Level-0/wiki/Install-Vuepress-and-Yarn)
 
 ## Using Lesson Builder
