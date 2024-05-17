@@ -5,7 +5,7 @@
         "context": ".."
     },
     "features": {
-        "ghcr.io/devcontainers/features/desktop-lite:1": {}
+        //"ghcr.io/devcontainers/features/desktop-lite:1": {}
     },
     "postCreateCommand": "",
     "customizations": {
@@ -14,5 +14,6 @@
                 "ms-python.python"
             ]
         }
-    }
+    },
+    "forwardPorts": [8080]
 }
