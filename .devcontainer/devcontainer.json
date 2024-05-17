@@ -2,12 +2,12 @@
     "name": "Python 3",
     "build": {
         "dockerfile": "Dockerfile",
-        "context": ".." // Adjust this depending on the location of your Dockerfile relative to your project
+        "context": ".."
     },
     "features": {
         "ghcr.io/devcontainers/features/desktop-lite:1": {}
     },
-    "postCreateCommand": "cd docs && npm install",
+    "postCreateCommand": "",
     "customizations": {
         "vscode": {
             "extensions": [

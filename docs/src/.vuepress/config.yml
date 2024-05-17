@@ -38,7 +38,7 @@ themeConfig:
     - path: /lessons/turtles/color/
       title: Colors
     - path: /lessons/turtles/saying-hello/
-      title: Saying Helo
+      title: Saying Hello
     - path: /lessons/turtles/tinas-pen/
       title: Tina's Pen
     - path: /lessons/turtles/going-in-circles/
