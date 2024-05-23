@@ -4,8 +4,11 @@ Tina is a Turtle that you control with code.  Press run to see what this program
 
 ```python.run
 import turtle
+# the import command imports the turtle icon
 tina = turtle.Turtle()
+# tina is the variable. This command defines tina as the turtle
 tina.shape('turtle')
+# this makes tina's shape the turtle
 
 tina.penup()
 tina.forward(20)
