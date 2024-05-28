@@ -12,7 +12,8 @@ tina.shape("turtle")
 
 tina.forward(50)
 tina.left(90)
-
+# The forward command moves Tina in the direction it's facing. The units are pixels, so Tina moves 90 pixels forward.
+# The "left" or "right" command rotates Tina a certain amount of degrees, specified by the next numbers. In this case, Tina rotates left 90 degrees.
 tina.forward(50)
 tina.left(90)
 
