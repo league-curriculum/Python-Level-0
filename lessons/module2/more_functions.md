@@ -159,7 +159,7 @@ each of these things:
 * Ask the user to enter the user's name,  using `input()`. If the user enters
   no name, change the user's name to 'NoName'. 
 
-* Check if the user's name is "bob" and if it is, print "Hi Bob!"
+* Check if the user's name is "Bob" and if it is, print "Hi Bob!"
 
 * Call the first function to get the user's name, then call the second
   function to check it. Call the function using named parameters, like
@@ -179,7 +179,7 @@ def ...
 
 
 # Function to check if the user's name is 
-# "bob" and if it is, print "Hi Bob!"
+# "Bob" and if it is, print "Hi Bob!"
 
 def ...
 
