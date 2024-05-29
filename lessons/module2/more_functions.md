@@ -166,7 +166,7 @@ each of these things:
   the way we called `function_2()`
 
 
-One of you functions should have a default parameter. 
+One of your functions should have a default parameter. 
 
 
 ```python.run:height='600'
