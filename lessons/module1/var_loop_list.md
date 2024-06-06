@@ -22,12 +22,12 @@ print(apples+oranges)
 
 Loops are a really important part of progams that let a program do something
 more than once without writing the same code over and over. For instance, if we
-wanted to print "Yea Tina!" three times, you could write:
+wanted to print "Yeah Tina!" three times, you could write:
 
 ```python 
-print("Yea Tina!")
-print("Yea Tina!")
-print("Yea Tina!")
+print("Yeah Tina!")
+print("Yeah Tina!")
+print("Yeah Tina!")
 ```
 
 But, it would be much better to use a loop instead, which would look like this: 
@@ -35,7 +35,7 @@ But, it would be much better to use a loop instead, which would look like this:
 
 ```python 
 for i in range(3):
-    print("Yea Tina!")
+    print("Yeah Tina!")
 
 ```
 

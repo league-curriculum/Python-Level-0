@@ -75,7 +75,7 @@ The really important part about tuples is when they are used in two important
 functions, `enumerate()` and `zip()`
 
 
-Enumerate means "to count out, one by one", and the `enumerate()` finction will count things for us. Here is how we use it:
+Enumerate means "to count out, one by one", and the `enumerate()` function will count things for us. Here is how we use it:
 
 
 ```python.run

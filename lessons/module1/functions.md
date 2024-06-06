@@ -1,7 +1,7 @@
 # Functions
 
 A function is like a recipe, a series of steps that the computer will follow.
-But we've been giving the compter steps to follow all along! What is different
+But we've been giving the computer steps to follow all along! What is different
 about a function? The important thing about functions is that they have
 names, inputs, and outputs.
 

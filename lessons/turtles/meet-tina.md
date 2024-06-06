@@ -11,8 +11,10 @@ tina.shape('turtle')
 # this makes tina's shape the turtle
 
 tina.penup()
+# This makes sure Tina doesn't write before she moves
 tina.forward(20)
 tina.write("Why, hello there!")
+# You can replace the text in the quotation marks to change what Tina says. Give it a try!
 tina.backward(20)
 ```
 

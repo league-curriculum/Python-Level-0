@@ -59,7 +59,7 @@ print(l)
 
 ::: tip 
 The reason that range() is not a list is that if you had a big range, like range(1_000_000_000), 
-Python would have to store a billion numbers, and would run out of memory. But range() doesn't actually store all of those numebrs, it just counts up by 1, so it doesn't take a lot of memory )
+Python would have to store a billion numbers, and would run out of memory. But range() doesn't actually store all of those numbers, it just counts up by 1, so it doesn't take a lot of memory )
 :::
 
 
