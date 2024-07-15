@@ -1,6 +1,6 @@
-# Level 0 Project
+# Final Project
 
-For your final Level 0 project, you are going to learn the most important lesson
+For your final  project, you are going to learn the most important lesson
 that a programmer can learn:
 
 <p style="text-align: center; font-size: 40px; font-weight: bold; color: red; font-family: 'Comic Sans MS', cursive, sans-serif;">Read The Documentation!</p>
